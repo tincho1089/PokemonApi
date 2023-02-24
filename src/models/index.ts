@@ -1,0 +1,5 @@
+export * from './genre.model'
+export * from './pokemon.model'
+export * from './routes'
+export * from './type-with-key'
+export * from './user.model'
